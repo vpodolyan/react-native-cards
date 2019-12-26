@@ -1,6 +1,6 @@
 ## react-native-cards
 
-Swipeable cards box. This project created using `react-native-create-app` with Expo.
+Swipeable cards box. This project is using `react-native-create-app` with Expo.
 
 ### Getting Started
 
