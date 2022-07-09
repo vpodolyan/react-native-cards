@@ -7,14 +7,14 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^41.0.0",
-    "react": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
-    "react-native-gesture-handler": "~1.10.2",
-    "react-native-reanimated": "~2.1.0"
+    "expo": "^45.0.0",
+    "react": "17.0.2",
+    "react-native": "0.68.2",
+    "react-native-gesture-handler": "~2.2.1",
+    "react-native-reanimated": "~2.8.0"
   },
   "devDependencies": {
-    "babel-preset-expo": "8.3.0"
+    "babel-preset-expo": "~9.1.0"
   },
   "private": true
 }
